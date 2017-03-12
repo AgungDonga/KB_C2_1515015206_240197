@@ -1,0 +1,10 @@
+2. a.hobi(ricky,catur).
+   b.malas(embang).
+   c.vegetari(yusida).
+   d.pandai(kusdiar,gitar).
+   e.mempunyai(sadek,bmwmerah).
+   f.pemain(awan,piano),asal(awan,pontianak),suku(awan,jawa).
+   g.dikatakan(orang,baik):-sifat(orang,penyayang),sifat(orang,dermawan).
+   h.dikatakan(orang,pintar):-tinggi(matematika);tinggi(ipa);tinggi(ips).
+   i.pasti(_,mati).
+   

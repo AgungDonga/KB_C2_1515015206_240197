@@ -1,0 +1,11 @@
+1. a.Dian adalah orang
+   b.Atoz merupakan mobil
+   c.Dian menyukai atoz
+   d.Atoz akan dijual
+   e.X dapat membeli Y jika (Dian adalah orang) dan 
+    (Atoz merupakan Mobil) dan (Dian Menyukai Atoz) dan 
+    (Atoz akan dijual).
+   f.Setiap orang menyukai Atoz
+
+
+
